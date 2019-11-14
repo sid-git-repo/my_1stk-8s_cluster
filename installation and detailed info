@@ -1,0 +1,10 @@
+#for k'8s cluster we need (minimal) 1 master and 2 slave nodes.
+
+#setting up the master#
+use any linux distribution with 2core(ubuntu/redhat/centos)
+1st:ETCD server(cluster store)
+2nd.API server(port443)
+3rd. Schedular
+4.Control Manager
+
+Create a Kubernetes Cluster on AWS With Jenkins and Spring Boot 
